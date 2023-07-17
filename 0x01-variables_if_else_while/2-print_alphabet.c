@@ -1,7 +1,6 @@
 #include <stdio.h>
-
-/*
- * main - A program to print alphabets in lowercase
+/**
+ * main - Entry point
  * Return: Always 0 (Success)
 */
 

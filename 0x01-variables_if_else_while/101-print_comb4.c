@@ -16,13 +16,12 @@ int main(void)
 			for (ones = '0'; ones <= '9'; ones++)
 			{
 				if (!((ones == tens) || (tens > ones)))
-
-					 if (!((tens == hundreds) || (hundreds > tens)))
+					if (!((tens == hundreds) || (hundreds > tens)))
 				{
 					putchar(hundreds);
 					putchar(tens);
-                                        putchar(ones);
-					
+					putchar(ones);
+
 					if (!(ones == '9' && hundreds == '7' && tens == '8'))
 					{
 						putchar(',');

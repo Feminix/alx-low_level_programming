@@ -2,7 +2,7 @@
 
 /**
  * print_square - func prints a square
- * @size: size of a square
+ * @size: size of square
  * Description: Can only use _putchar to print. Use '+' to print square.
  */
 

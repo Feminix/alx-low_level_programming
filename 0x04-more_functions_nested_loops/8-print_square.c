@@ -18,9 +18,9 @@ _putchar('\n');
 while (y < size)
 {
 x = 0;
-while (x < size);
+while (x < size)
 {
-_putchar('+');
+_putchar('#');
 x++;
 }
 _putchar('\n');

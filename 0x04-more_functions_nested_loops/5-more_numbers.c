@@ -1,10 +1,11 @@
 #include "main.h"
+
 /**
- * void more_numbers - function to check a digit (0 through 14)
+ * more_numbers - function to check a digit (0 through 14)
  *followed by a new line
  */
 
-void more_numbers(void);
+void more_numbers(void)
 {
 int i, j;
 
